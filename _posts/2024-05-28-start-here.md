@@ -1,8 +1,8 @@
 ---
 title: The silliness starts here!
-author: reddust
 category: meta
 date: 2021-08-20 17:47:00 +01:00 
+tags: meta, info
 ---
 
 ## Hello, world and welcome!
