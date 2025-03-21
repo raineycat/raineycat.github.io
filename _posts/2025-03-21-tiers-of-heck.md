@@ -1,9 +1,9 @@
 ---
 title: The tiers of heck editor
 author: Raine
-category: meta
+category: projects
 date: 2025-03-21 11:40:00 +00:00 
-tags: projects
+tags: projects releases
 ---
 
 ## My editor for SpiderHeck tiers of heck codes now lives at [reddust.uk/tiers-web](https://reddust.uk/tiers-web)!
