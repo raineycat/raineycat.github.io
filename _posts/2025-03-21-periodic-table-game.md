@@ -1,9 +1,9 @@
 ---
 title: Periodic table game
 author: Raine
-category: meta
+category: projects
 date: 2025-03-21 11:45:00 +00:00 
-tags: projects
+tags: projects releases
 ---
 
 ## [reddust.uk/element-game](https://reddust.uk/element-game)
