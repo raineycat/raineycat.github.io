@@ -2,7 +2,7 @@
 title: The tiers of heck editor
 author: Raine
 category: meta
-date: 2021-08-20 17:47:00 +01:00 
+date: 2025-03-21 11:40:00 +00:00 
 tags: projects
 ---
 
