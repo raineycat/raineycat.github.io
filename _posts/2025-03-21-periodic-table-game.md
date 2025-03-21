@@ -8,7 +8,7 @@ tags: projects releases games
 
 ## [reddust.uk/element-game](https://reddust.uk/element-game)
 
-This is a small game I wrote over a few days where you have to go through eaqch element in the periodic table and remember the name from the symbol.
+This is a small game I wrote over a few days where you have to go through each element in the periodic table and remember the name from the symbol.
 
 You can play it at the above link, or view the source code (JS+HTML+CSS) at [raineycat/element-game](https://github.com/raineycat/element-game)!
 
