@@ -3,7 +3,7 @@ title: Periodic table game
 author: Raine
 category: projects
 date: 2025-03-21 11:45:00 +00:00 
-tags: projects releases
+tags: projects releases games
 ---
 
 ## [reddust.uk/element-game](https://reddust.uk/element-game)
